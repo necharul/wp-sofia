@@ -1,0 +1,7 @@
+@font-face{
+	font-family:"Myriad Pro";
+	src:url("../font/Qlassik.eot") format("eot"),
+	url("../font/Qlassik.svg#Qlassik") format("svg"),
+	url("../font/Qlassik.ttf") format("turetype"),
+	url("../font/Qlassik.woff") format("woff");
+}
